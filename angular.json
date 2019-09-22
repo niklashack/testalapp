@@ -24,6 +24,7 @@
               "src/assets",
 			  "src/web.config",
               "src/manifest.webmanifest",
+              "src/manifest.webmanifest",
               "src/manifest.webmanifest"
             ],
             "styles": [
@@ -92,6 +93,7 @@
               "src/favicon.ico",
               "src/assets",
 			  "src/web.config",
+              "src/manifest.webmanifest",
               "src/manifest.webmanifest",
               "src/manifest.webmanifest"
             ],
