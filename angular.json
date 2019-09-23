@@ -22,7 +22,10 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
+<<<<<<< HEAD
 			  "src/web.config",
+=======
+>>>>>>> 062d60cff19b75033a53f451622f1d9d92bac8bd
               "src/manifest.webmanifest"
             ],
             "styles": [
@@ -90,8 +93,13 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
+<<<<<<< HEAD
 			  "src/web.config",
               "src/manifest.webmanifest"
+=======
+              "src/manifest.webmanifest",
+			  "src/web.config"
+>>>>>>> 062d60cff19b75033a53f451622f1d9d92bac8bd
             ],
             "styles": [
               "src/styles.css"

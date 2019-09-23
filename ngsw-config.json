@@ -21,7 +21,11 @@
       "resources": {
         "files": [
           "/assets/**",
+<<<<<<< HEAD
           "/*.(eot|svg|cur|jpg|png|webp|gif|otf|ttf|woff|woff2|ani)"
+=======
+          "/*.(eot|svg|cur|jpg|png|webp|gif|otf|ttf|woff|woff2|ani|json|webmanifest)"
+>>>>>>> 062d60cff19b75033a53f451622f1d9d92bac8bd
         ]
       }
     }
